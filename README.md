@@ -4,4 +4,4 @@ Project has been implemented on Streamlit/Python, deployed on Heroku, and make i
 
 [Click here to see the App](https://eligibilityapp.herokuapp.com/)
 
-![Demo](https://github.com/saulventura/Stock-Market-App/blob/master/demo.gif)
+![Demo](https://github.com/saulventura/LoanEligibility/blob/master/demo.gif)
